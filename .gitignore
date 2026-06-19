@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets / OAuth tokens — never commit
+credentials.json
+token.pickle
+
+# Personal liked-video data
+liked_videos.csv
+beats.csv
