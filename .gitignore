@@ -5,6 +5,7 @@ __pycache__/
 
 # Secrets / OAuth tokens — never commit
 credentials.json
+token.json
 token.pickle
 
 # Personal liked-video data
